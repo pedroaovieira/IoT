@@ -191,3 +191,59 @@ $ git clone https://github.com/sviehb/jefferson
 
 $ (cd jefferson && sudo python setup.py install)
 
+
+    
+    
+    
+    Dump firmware
+Skip to end of metadata
+
+    
+Go to start of metadata
+
+
+--------------------------------------------------
+
+https://www.youtube.com/watch?v=Gh8C2G3qHIw
+
+
+JTAG/SWD
+
+    Connect via JTAG
+    Halt CPU
+    Dump Address Space
+    Carving Tools to Locate Flash
+
+
+SPI/I2C Flash
+
+    Connect to Flash with Target Unpowered or Halted
+    Dump Flash Memory on Host
+
+
+NAND/NOR Flash
+
+    Desolder Flash
+    Insert into reader
+    Dump Flash
+
+
+Ghidra
+
+openocd
+
+flashrom
+
+
+https://www.irongeek.com/i.php?page=videos/bsidesindy2017/bsides-indy02-hardware-hacking-abusing-the-things-price-mcdonald
+
+https://securinghardware.com/
+
+https://securinghardware.com/news/Applied-Physical-Attacks-Online-Self-Paced/
+
+https://hardwaresecurity.training/
+
+
+https://www.irongeek.com/i.php?page=security/hackingillustrated
+
+    
