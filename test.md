@@ -246,4 +246,22 @@ https://hardwaresecurity.training/
 
 https://www.irongeek.com/i.php?page=security/hackingillustrated
 
+UART
+    
+
+
+Source: www.makemehack.com
+
+Video: #02 - How To Find The UART Interface - Hardware Hacking Tutorial
+
+
+If no debug connector is available:
+
+    Check IC - See Datasheet - Find RX and TX
+    With Continuity tests find a better place to solder wires
+
+
+
+https://en.wikipedia.org/wiki/Serial_port#Speed
+
     
