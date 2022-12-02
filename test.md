@@ -1,3 +1,6 @@
+Books
+https://raw.githubusercontent.com/unprovable/PentestHardware/master/DRAFT.pdf
+
 
 ## Hardware ##
 
