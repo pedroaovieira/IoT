@@ -2,6 +2,9 @@ Books
 https://raw.githubusercontent.com/unprovable/PentestHardware/master/DRAFT.pdf
 
 
+
+https://www.youtube.com/watch?v=9vsu67uMcko
+
 ## Hardware ##
 
 - Basics
