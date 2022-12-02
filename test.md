@@ -265,3 +265,8 @@ If no debug connector is available:
 https://en.wikipedia.org/wiki/Serial_port#Speed
 
     
+
+https://www.gtconsult.com/ProdCon/ProdCon%20-%20Bradley%20Geldenhuys%20-%20Hacking%20IoT%20Devices.pdf    
+    
+    
+    https://conference.hitb.org/hitbsecconf2013kul/materials/D2T3%20-%20Job%20de%20Haas%20-%2020%20Ways%20Past%20Secure%20Boot.pdf
