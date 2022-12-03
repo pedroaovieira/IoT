@@ -1,9 +1,3 @@
-Books
-https://raw.githubusercontent.com/unprovable/PentestHardware/master/DRAFT.pdf
-
-
-
-https://www.youtube.com/watch?v=9vsu67uMcko
 
 ## Hardware ##
 
@@ -74,11 +68,11 @@ Datasheets
 4. Pinout Reversing
 
     Labeled on PCB
-    Check the PCB plan on SAP
     Find candidates
     Use a multi-meter
 
 To identify UART or JTAG pins use the Jtagulator.
+
 4.1. Serial Console
 
 Connect using serial console, baud rate 115200
