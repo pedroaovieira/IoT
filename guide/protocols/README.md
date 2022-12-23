@@ -9,6 +9,11 @@
 
 - Boot
 - UART
+
+https://hacklido.com/d/22-hardware-hacking-getting-uart-shells
+
+
+
 - SPI
 - JTAG
 
