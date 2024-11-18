@@ -125,11 +125,15 @@ https://cyberarch.eu/our-blog/iot-devices-firmware-security-analysis/
 
 ---
 
-### Experiments
+### Experiments / CTF
 
 - [Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020](https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf)
 
 - [Hardware.Hacking.Methodology-Jeremy.Brun-v1.0](https://github.com/koutto/hardware-hacking/blob/master/Hardware.Hacking.Methodology-Jeremy.Brun-v1.0.pdf)
+
+- [https://github.com/infosectcbr/InfoSect-Hardware-CTF/blob/gh-pages/index.md](https://github.com/infosectcbr/InfoSect-Hardware-CTF/blob/gh-pages/index.md)
+
+- [https://github.com/iamABH/awesome-hardware-ctf](https://github.com/iamABH/awesome-hardware-ctf)
 
 
 ---
