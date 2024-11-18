@@ -125,9 +125,11 @@ https://cyberarch.eu/our-blog/iot-devices-firmware-security-analysis/
 
 ---
 
+### Experiments
 
+- [Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020](https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf)
 
-
+- [Hardware.Hacking.Methodology-Jeremy.Brun-v1.0](https://github.com/koutto/hardware-hacking/blob/master/Hardware.Hacking.Methodology-Jeremy.Brun-v1.0.pdf)
 
 
 ---
